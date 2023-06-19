@@ -34,7 +34,7 @@ module VideoScreenshot
         filename = event.first.first
         directory = Pathname.new(filename).dirname.to_s
         @logger.info("Creating video for #{directory}.")
-        create_video(directory, logger)
+        create_video(directory)
       end
     end
 

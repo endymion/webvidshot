@@ -10,7 +10,7 @@ module VideoScreenshot
     long_desc <<-LONGDESC
     Start capturing screenshots of the given URL and keep going indefinitely.  Label each new screenshot with a timestamp and the name of the environment, "screenshots" by default.  Generate a video of the screenshots and keep updating it when new files appear or when any other changes happen to the enivronment's screenshot directory.
     LONGDESC
-    method_option :chrome_path, default: '/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome', desc: "Path to Chrome executable"
+    method_option :chrome_path, desc: "Path to Chrome executable"
     method_option :label, default: 'true', desc: "Start the labeling process to label screenshots with timestamps"
     method_option :video, default: 'true', desc: "Start the video generation process to update generated videos when new files appear or when any other changes happen to the enivronment's screenshot directory"
     def capture(url, environment = 'screenshots')
