@@ -1,12 +1,12 @@
 # Website Video Screenshot Tool
 
-## Coded by GPT4
-
-This project is an example of how artificial intelligence can assist with software development. The bulk of the code and this README were written by GPT-4, an AI model developed by OpenAI, with guidance from a human about goals and assistance with running and testing the code.
-
 This tool automates the process of taking screenshots of a webpage, labeling them with timestamps, and generating a video from these screenshots.
 
 > **Note:** This tool was designed for macOS users. Other users might need to adjust the path to the Chrome executable accordingly.
+
+## Coded by GPT4
+
+This project is an example of how artificial intelligence can assist with software development. The bulk of the code and this README were written by GPT-4, an AI model developed by OpenAI, with guidance from a human about goals and assistance with running and testing the code.
 
 ## Installation
 
