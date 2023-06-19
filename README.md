@@ -2,7 +2,7 @@
 
 ## Coded by GPT4
 
-This project is an example of how artificial intelligence can assist with software development. The bulk of the code and this README were written by GPT-4, an AI model developed by OpenAI, with guidance from a human about goals and assistance with running and testing the code. You can view the interactive session that resulted in this project [here](https://chat.openai.com/share/7b53d5b5-c8d7-49b2-bf79-2cd0e64a7a52).
+This project is an example of how artificial intelligence can assist with software development. The bulk of the code and this README were written by GPT-4, an AI model developed by OpenAI, with guidance from a human about goals and assistance with running and testing the code.
 
 This tool automates the process of taking screenshots of a webpage, labeling them with timestamps, and generating a video from these screenshots.
 
